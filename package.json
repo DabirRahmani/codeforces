@@ -1,0 +1,11 @@
+{
+  "name": "cf",
+  "version": "1.0.0",
+  "main": "1.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
